@@ -1,0 +1,9 @@
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\bin\Debug\CraneVideoDisplay.exe
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\bin\Debug\CraneVideoDisplay.pdb
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.csprojAssemblyReference.cache
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.CraneVideoDisplay.resources
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.Properties.Resources.resources
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.csproj.GenerateResource.cache
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.csproj.CoreCompileInputs.cache
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.exe
+C:\Users\MCY\source\repos\CraneVideo\CraneVideoDisplay\obj\Debug\CraneVideoDisplay.pdb
